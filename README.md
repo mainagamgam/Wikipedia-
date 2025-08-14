@@ -3,7 +3,7 @@ Maina Gam Profile
 apiVersion: v48
 kind: Human
 metadata:
-  name: Geoffrey Maina
+  name: Maina Gam
 spec:
   purpose: Help others learn container DevOps
   locations:
@@ -12,16 +12,16 @@ spec:
       where: linkedIn
    - 
       type: Blog
-      where: appsavvytalk.com/Blog
+      where: 
     - 
       type: Newsletter
-      where: appsavvytalk.com/news
+      where: 
     - 
       type: Homepage
-      where: appsavvytalk.com
+      where: 
     -
       type: Podcast
-      where: appsavvytalk.com/podcast
+      where: 
   favorites:
     number: 8
     animal: 🐶
